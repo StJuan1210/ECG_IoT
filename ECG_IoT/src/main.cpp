@@ -16,8 +16,8 @@ bool get_data = false;
 int check1=0,check2=0;
 
 // Connecting to the Internet
-char * ssid = "Mattackal 2.4";
-char * password = "burka123";
+char * ssid = "Your SSID";
+char * password = "password";
 
 float ECGval() {
   
